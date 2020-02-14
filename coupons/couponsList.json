@@ -5,10 +5,10 @@
   "message": "Coupon list",
   "data": [
     {
-      "id": 9,
+      "id": 100,
       "status": 1,
       "status_name": "Activa",
-      "campaign_id": 1,
+      "campaign_id": 9,
       "campagin_name": "Cocacola +",
       "coupon_type_id": 1,
       "coupon_type_name": "Descuento valor",
@@ -24,10 +24,10 @@
       "created_at": "2020-01-29 00:00:00"
     },
     {
-      "id": 9,
+      "id": 101,
       "status": 1,
       "status_name": "Activa",
-      "campaign_id": 1,
+      "campaign_id": 9,
       "campagin_name": "Cocacola +",
       "coupon_type_id": 1,
       "coupon_type_name": "Descuento valor",
@@ -43,10 +43,10 @@
       "created_at": "2020-01-29 00:00:00"
     },
     {
-      "id": 9,
+      "id": 102,
       "status": 1,
       "status_name": "Activa",
-      "campaign_id": 1,
+      "campaign_id": 10,
       "campagin_name": "Cocacola +",
       "coupon_type_id": 1,
       "coupon_type_name": "Descuento valor",
